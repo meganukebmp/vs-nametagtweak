@@ -1,0 +1,9 @@
+{
+  "BackgroundColor": [ 0.251, 0.208, 0.161, 0.75],
+  "TextColor": [ 1.0, 1.0, 1.0, 1.0 ],
+  "TextPadding": 3,
+  "BorderRadius": 1.0,
+  "DropShadow": true,
+  "BorderWidth": 3.0,
+  "BorderColor": [0.0, 0.0, 0.0, 0.3]
+}

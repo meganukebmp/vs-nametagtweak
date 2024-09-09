@@ -1,0 +1,12 @@
+{
+    "type": "code",
+    "modid": "nametagtweak",
+    "side": "client",
+    "name": "Nametag Tweak",
+    "authors": [
+        "Nexrem"
+    ],
+    "description": "Allows for the customization of the nametags",
+    "version": "1.0.0",
+    "dependencies": {}
+}
