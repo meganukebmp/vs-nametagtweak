@@ -48,7 +48,7 @@ namespace NameTagTweak
             }
             catch
             {
-                api.Logger.Error("Did not find nametagtweak config file! Using default...");
+                api.Logger.Warning("Did not find nametagtweak config file! Using default...");
                 // Failed to load config, use default config
                 currentConfig = api.Assets.Get<NameTagConfig>(new AssetLocation("nametagtweak", "config/" + configfilename));
                 // Store the config
